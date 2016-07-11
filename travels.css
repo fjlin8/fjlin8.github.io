@@ -4,8 +4,13 @@ p, h1, h2{
     margin: 0 auto;
 }
 
+p.image{
+	padding-bottom: 5px;
+}
+
 p.captions{
-	width: 50%;
+	width: 500px;
+	padding-bottom: 15px;
 }
 
 img.resize{
@@ -13,3 +18,4 @@ img.resize{
     display: block;
     margin: 0 auto;
 }
+	
