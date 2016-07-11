@@ -4,13 +4,17 @@ p, h1, h2{
     margin: 0 auto;
 }
 
-p.image{
-	padding-bottom: 5px;
+h1, h2{
+	padding-bottom: 50px
 }
 
-p.captions{
-	width: 500px;
+p.image{
 	padding-bottom: 15px;
+}
+
+ p.captions{
+	width: 500px;
+	padding-bottom: 30px;
 }
 
 img.resize{
