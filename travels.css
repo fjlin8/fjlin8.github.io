@@ -1,11 +1,16 @@
+body {
+    background-color: #ADEAEA;
+}
+
 p, h1, h2{
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
     margin: 0 auto;
+	padding-bottom: 30px;
 }
 
 h1, h2{
-	padding-bottom: 50px
+
 }
 
 p.image{
@@ -14,7 +19,6 @@ p.image{
 
  p.captions{
 	width: 500px;
-	padding-bottom: 30px;
 }
 
 img.resize{
