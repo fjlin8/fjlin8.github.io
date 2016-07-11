@@ -1,11 +1,10 @@
 p.captions{
-    margin-left: auto;
-    margin-right: auto;
-	width: 100px;
+    text-align: center;
+	width: 300px;
 }
 
 img.resize{
 	max-width:50%;
-    margin-left: auto;
-    margin-right: auto;
+    display: block;
+    margin: 0 auto;
 }
