@@ -1,5 +1,5 @@
 body {
-    background-color: #F0FFFF;
+    background-color: #E0FFFF;
 }
 
 p, h1, h2{
@@ -18,7 +18,7 @@ p.image{
 }
 
  p.captions{
-	width: 500px;
+	max-width: 40%;
 }
 
 img.resize{
