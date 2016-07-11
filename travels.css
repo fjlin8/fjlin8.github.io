@@ -9,7 +9,7 @@ p.captions{
 }
 
 img.resize{
-	max-width: 60%;
+	max-width: 50%;
     display: block;
     margin: 0 auto;
 }
