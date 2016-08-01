@@ -39,14 +39,14 @@ li a{
 	display: block;
 }
 	
-a.link{
+li a.link{
     text-decoration: none;
 	color: #008080;
 }
 
-a.text{
+li a.text{
 	text-decoration: none;
-	color: navy
+	color: navy;
 }
 
 li a:hover{
