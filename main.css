@@ -29,10 +29,9 @@ ul{
     margin-right: auto;
 }
 
-li a{
+li{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 18px;
-    color: #008080;
     padding: 8px 0 8px 16px;
 	vertical-align: middle;
 	text-decoration: none;
@@ -42,6 +41,10 @@ li a{
 li.text{
 	text-decoration: none;
 	color: navy;
+}
+
+li a:link{
+	color: #008080;
 }
 
 li a:hover{
