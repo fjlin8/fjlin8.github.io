@@ -24,17 +24,21 @@ ul{
 li{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 18px;
-    display: block;
     color: black;
     padding: 8px 0 8px 16px;
 	vertical-align: middle;
 	text-decoration: none;
 }
 
+
+li a{
+	background-color: #008080;
+    display: block;
+}
+
 li a:hover{
-    background-color: #008080;
-    color: white;
 	text-decoration: none;
+	color: white;
 }
 
 li a:visited{
