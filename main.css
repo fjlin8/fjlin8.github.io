@@ -42,6 +42,7 @@ li a{
 li.link{
     text-decoration: none;
 	color: #008080;
+	background-color: red;
 }
 
 li.text{
