@@ -49,10 +49,6 @@ li a:link{
 	color: #008080;
 }
 
-li a:nth-child(odd){
-	background: red;
-}
-
 li a:hover{
 	text-decoration: none;
 	display: block;
