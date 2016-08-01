@@ -41,11 +41,14 @@ li a{
 	
 li a:link{
     text-decoration: none;
-	color: #008080;
 }
 
 li a:nth-child(odd){
 	color: navy;
+}
+
+li a:nth-child(even){
+	color: #008080;
 }
 
 li a:hover{
