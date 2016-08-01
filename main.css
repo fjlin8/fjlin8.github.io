@@ -29,21 +29,23 @@ ul{
     margin-right: auto;
 }
 
-li{
+li.text{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 18px;
     padding: 8px 0 8px 16px;
 	vertical-align: middle;
 	text-decoration: none;
 	display: block;
-}
-
-li.text{
-	text-decoration: none;
 	color: navy;
 }
 
 li a:link{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+    padding: 8px 0 8px 16px;
+	vertical-align: middle;
+	text-decoration: none;
+	display: block;
 	color: #008080;
 }
 
