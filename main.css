@@ -38,6 +38,7 @@ li a{
 li a:hover{
 	text-decoration: none;
 	color: white;
+	display: block;
 	background-color: #008080;
 }
 
