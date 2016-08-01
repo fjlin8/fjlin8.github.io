@@ -44,7 +44,7 @@ li a:link{
 	color: #008080;
 }
 
-li:nth-child(odd){
+li a:nth-child(odd){
 	color: navy;
 }
 
