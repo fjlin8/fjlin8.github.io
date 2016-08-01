@@ -21,7 +21,7 @@ ul{
     margin-right: auto;
 }
 
-li a{
+li{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 18px;
     display: block;
@@ -34,6 +34,10 @@ li a{
 li a:hover{
     background-color: #008080;
     color: white;
+}
+
+li a:visited{
+	color: navy
 }
 
 img{
