@@ -39,6 +39,7 @@ li a:link{
 
 li a:hover{
 	text-decoration: none;
+	display: block;
 	color: white;
 	background-color: #008080;
 }
