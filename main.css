@@ -39,16 +39,14 @@ li a{
 	display: block;
 }
 	
-li a:link{
+li a.link{
     text-decoration: none;
-}
-
-li a:nth-child(odd){
-	color: navy;
-}
-
-li a:nth-child(even){
 	color: #008080;
+}
+
+li a.text{
+	text-decoration: none;
+	color: navy
 }
 
 li a:hover{
