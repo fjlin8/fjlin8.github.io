@@ -39,12 +39,12 @@ li a{
 	display: block;
 }
 	
-li a.link{
+a.link{
     text-decoration: none;
 	color: #008080;
 }
 
-li a.text{
+a.text{
 	text-decoration: none;
 	color: navy
 }
