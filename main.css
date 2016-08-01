@@ -39,17 +39,6 @@ li a{
 	display: block;
 }
 	
-li.link{
-    text-decoration: none;
-	color: #008080;
-	background-color: red;
-}
-
-li.text{
-	text-decoration: none;
-	color: navy;
-}
-
 li a:hover{
 	text-decoration: none;
 	display: block;
@@ -63,6 +52,17 @@ li a:visited{
 
 li a:active{
     text-decoration: none;
+}
+
+li.link{
+    text-decoration: none;
+	color: #008080;
+	background-color: red;
+}
+
+li.text{
+	text-decoration: none;
+	color: navy;
 }
 
 img{
