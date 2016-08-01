@@ -24,6 +24,7 @@ ul{
 li{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 18px;
+	display: block;
     color: black;
     padding: 8px 0 8px 16px;
 	vertical-align: middle;
@@ -31,27 +32,25 @@ li{
 }
 
 
-li a{
-    display: block;
+li a:link{
+    text-decoration: none;
+	color: navy;
 }
 
 li a:hover{
 	text-decoration: none;
 	color: white;
-	display: block;
 	background-color: #008080;
 }
 
 li a:visited{
 	text-decoration: none;
-}
-
-li a:link{
-    text-decoration: none;
+	color: navy;
 }
 
 li a:active{
     text-decoration: none;
+	color: navy;
 }
 
 img{
