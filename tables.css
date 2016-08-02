@@ -2,7 +2,7 @@ body{
     background-color: #E0FFFF;
 }
 
-p, h1, h2, h3, b{
+p, h1, h2, h3, b, pre{
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
     margin: 0 auto;
