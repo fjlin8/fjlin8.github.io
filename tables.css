@@ -14,11 +14,6 @@ h1{
 	padding-bottom: 30px;
 }
 
-p.small{
-	font-size: 10px;
-	margin: 0px;
-}
-
 table{
 	border: 1px solid black;
     border-collapse: collapse;
@@ -35,3 +30,9 @@ th, td{
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
 }
+
+p.small{
+	font-size: 10px;
+	margin: 0px;
+}
+
