@@ -28,7 +28,7 @@ table, th, td{
     margin-right: auto;
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
-	table-layout: fixed;
+	table-layout: auto;
 }
 
 th, td{
