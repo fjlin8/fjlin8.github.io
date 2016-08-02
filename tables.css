@@ -29,6 +29,7 @@ th, td{
     padding: 5px;
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
+	vertical-align: middle;
 }
 
 p{
