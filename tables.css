@@ -2,16 +2,16 @@ body{
     background-color: #E0FFFF;
 }
 
-p, h1{
+p, h1, h2, h3{
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
     margin: 0 auto;
 	width: 500px;
-	padding-bottom: 30px;
 }
 
 h1{
 	font-size: 36px;
+	padding-bottom: 30px;
 }
 
 p{
