@@ -9,9 +9,6 @@ h1, h2, h3, h4{
 	width: 700px;
 }
 
-p.small{
-	font-size: 10px;
-}
 
 h1{
 	font-size: 36px;
@@ -20,6 +17,10 @@ h1{
 
 p{
 	font-size: 16px;
+}
+
+p.small{
+	font-size: 10px;
 }
 
 table{
