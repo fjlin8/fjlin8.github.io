@@ -27,8 +27,8 @@ table{
     border-collapse: collapse;
     margin-left: auto; 
     margin-right: auto;
-    table-layout:fixed;
-    width: 700px;
+    table-layout: fixed;
+    width: 800px;
 }
 
 th, td{
@@ -36,5 +36,5 @@ th, td{
     border-collapse: collapse;
     padding: 5px;
 	font-family: Tahoma, Geneva, sans-serif;
-	text-align: left;
+	text-align: center;
 }
