@@ -22,17 +22,18 @@ p{
 	font-size: 16px;
 }
 
-table, th, td{
+table{
+	border: 1px solid black;
     border-collapse: collapse;
     margin-left: auto; 
     margin-right: auto;
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
-	table-layout: auto;
 }
 
 th, td{
 	border: 1px solid black;
+    border-collapse: collapse;
     padding: 5px;
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
