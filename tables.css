@@ -27,6 +27,8 @@ table{
     border-collapse: collapse;
     margin-left: auto; 
     margin-right: auto;
+    table-layout:fixed;
+    width: 700px;
 }
 
 th, td{
