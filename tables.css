@@ -9,18 +9,14 @@ h1, h2, h3, h4{
 	width: 700px;
 }
 
-
 h1{
 	font-size: 36px;
 	padding-bottom: 30px;
 }
 
-p{
-	font-size: 16px;
-}
-
 p.small{
 	font-size: 10px;
+	margin: 0px;
 }
 
 table{
