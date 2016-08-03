@@ -6,7 +6,7 @@ p, h1{
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
     margin: 0 auto;
-	width: 550px;
+	width: 600px;
 	padding-bottom: 30px;
 }
 
@@ -22,7 +22,7 @@ ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 500px;
+    width: 400px;
 	border: 3px solid #008080;
     background-color: #F0FFFF;
     margin-left: auto;
@@ -31,7 +31,7 @@ ul{
 
 li.text{
 	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 24px;
+	font-size: 18px;
     padding: 8px 0 8px 16px;
 	vertical-align: middle;
 	text-decoration: none;
