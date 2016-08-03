@@ -4,10 +4,12 @@
 		<link rel="stylesheet" type="text/css" href="tables.css">
 		<script src="jquery-3.1.0.min.js"></script>
 		<script>
-
+		$(document).ready(function(){
+			$("hidden1").hide();
+		});
 		$(document).ready(function(){
 			$("control1").click(function(){
-				$("hidden1").toggle();
+				$("hidden1").toggle(250);
 			});
 		});
 		</script>
