@@ -11,11 +11,11 @@ p, h1{
 }
 
 h1{
-	font-size: 36px;
+	font-size: 48px;
 }
 
 p{
-	font-size: 16px;
+	font-size: 32px;
 }
 
 ul{
@@ -31,7 +31,7 @@ ul{
 
 li.text{
 	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 18px;
+	font-size: 36px;
     padding: 8px 0 8px 16px;
 	vertical-align: middle;
 	text-decoration: none;
@@ -41,7 +41,7 @@ li.text{
 
 li a:link{
 	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 18px;
+	font-size: 36px;
     padding: 8px 0 8px 16px;
 	vertical-align: middle;
 	text-decoration: none;
