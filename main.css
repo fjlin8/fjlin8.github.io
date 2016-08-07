@@ -131,11 +131,6 @@ hr{
 
 }
 
-.left{
-	margin-left: 50px;
-    margin-right: auto;
-}
-
 .right{
     margin-left: auto;
     margin-right: 50px;
@@ -143,4 +138,5 @@ hr{
 
 img.circle{
     border-radius: 50%;
+	margin-right: 50px
 }
