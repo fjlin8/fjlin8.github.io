@@ -2,12 +2,6 @@ body{
     background-color: #E0FFFF;
 }
 
-body.header{
-	width: 100%;
-	height: 100px;
-	background-color: #D0FAEE;
-}
-
 p, h1{
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
@@ -27,7 +21,7 @@ p{
 ul.h{
 	list-style-type: none;
 	margin: 0px 0px 10px 0px;
-	padding: 20px;
+	padding: 0px;
 	text-align: center;
 	overflow: hidden;
 	background-color: #008080;
@@ -124,30 +118,25 @@ img{
     vertical-align: middle;
 }
 
-hr.left{
+hr{
     display: block;
     height: 0px;
     border: 0;
     border: 10px solid #ccc;
-    border-color: red;
+    border-color: navy;
     margin: 20px;
     padding: 0px; 
     border-radius: 20px;
     width: 30%;
-    margin-left: 50px;
+
+}
+
+.left{
+	margin-left: 50px;
     margin-right: auto;
 }
 
-hr.right{
-    display: block;
-    height: 0px;
-    border: 0;
-    border: 10px solid #ccc;
-    border-color: red;
-    margin: 20px;
-    padding: 0px; 
-    border-radius: 20px;
-    width: 30%;
+.right{
     margin-left: auto;
     margin-right: 50px;
 }
