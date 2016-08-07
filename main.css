@@ -20,7 +20,7 @@ p{
 
 ul.h{
     list-style-type: none;
-    margin: 0px;
+    margin: 0px 0px 10px 0px;
     padding: 0px;
     overflow: hidden;
     background-color: #008080;
@@ -40,7 +40,7 @@ li.h{
 
 li.h a{
     display: block;
-    color: white;
+    color: #F0FFFF;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -49,20 +49,20 @@ li.h a{
 li.h a:visited{
 	text-decoration: none;
 	display: block;
-	color: white;
+	color: #F0FFFF;
 }
 
 li.h a:hover{
 	text-decoration: none;
 	display: block;
-	color: black;
-	background-color: #008080;
+	color: #008080;
+	background-color: #00CDCD;
 }
 
 li.h a:active{
 	text-decoration: none;
 	display: block;
-	color: #008080;
+	color: #F0FFFF;
 }
 
 ul.v{
