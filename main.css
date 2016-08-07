@@ -30,18 +30,18 @@ ul.h{
 }
 
 li.h{
-	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 20px;
-    padding: 8px 0 8px 16px;
-	vertical-align: middle;
-	text-decoration: none;
-	display: block;
-	color: #008080;
+    float: left;
+    font-family: Tahoma, Geneva, sans-serif;
+    vertical-align: middle;
+    text-decoration: none;
+    display: block;
+    color: #008080;
+	font-size: 20px
 }
 
-li.h a {
+li.h a{
     display: block;
-    color: white;
+    color: #008080;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
