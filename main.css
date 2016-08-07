@@ -18,6 +18,54 @@ p{
 	font-size: 20px;
 }
 
+ul.h{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	border: 3px solid #008080;
+    background-color: #F0FFFF;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li.h{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 20px;
+    padding: 8px 0 8px 16px;
+	vertical-align: middle;
+	text-decoration: none;
+	display: block;
+	color: #008080;
+}
+
+li.h a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li.h a:visited{
+	text-decoration: none;
+	display: block;
+	color: #008080;
+}
+
+li.h a:hover{
+	text-decoration: none;
+	display: block;
+	color: white;
+	background-color: #008080;
+}
+
+li.h a:active{
+	text-decoration: none;
+	display: block;
+	color: #008080;
+}
+
 ul.v{
     list-style-type: none;
     margin: 0;
