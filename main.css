@@ -56,7 +56,7 @@ li.h a:hover{
 	text-decoration: none;
 	display: block;
 	color: #008080;
-	background-color: #BFEFFF;
+	background-color: navy;
 }
 
 li.h a:active{
@@ -89,7 +89,7 @@ li.v.text{
 li.v a:link{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 20px;
-    padding: 8px 0px] 8px 16px;
+    padding: 8px 0px 8px 16px;
 	vertical-align: middle;
 	text-decoration: none;
 	display: block;
