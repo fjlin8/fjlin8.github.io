@@ -18,7 +18,7 @@ p{
 	font-size: 20px;
 }
 
-ul{
+ul.v{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -29,7 +29,7 @@ ul{
     margin-right: auto;
 }
 
-li.text{
+li.v.text{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 20px;
     padding: 8px 0 8px 16px;
@@ -39,7 +39,7 @@ li.text{
 	color: navy;
 }
 
-li a:link{
+li.v a:link{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 20px;
     padding: 8px 0 8px 16px;
@@ -49,20 +49,20 @@ li a:link{
 	color: #008080;
 }
 
-li a:visited{
+li.v a:visited{
 	text-decoration: none;
 	display: block;
 	color: #008080;
 }
 
-li a:hover{
+li.v a:hover{
 	text-decoration: none;
 	display: block;
 	color: white;
 	background-color: #008080;
 }
 
-li a:active{
+li.v a:active{
 	text-decoration: none;
 	display: block;
 	color: #008080;
