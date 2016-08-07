@@ -74,6 +74,7 @@ ul.v{
     background-color: #F0FFFF;
     margin-left: auto;
     margin-right: auto;
+	padding: 0px;
 }
 
 li.v.text{
