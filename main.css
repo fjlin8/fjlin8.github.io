@@ -19,49 +19,47 @@ p{
 }
 
 ul.h{
-    list-style-type: none;
-    margin: 0px 0px 10px 0px;
-    padding: 0px;
-    overflow: hidden;
-    background-color: #008080;
-    margin-left: auto;
-    margin-right: auto;
+	list-style-type: none;
+	margin: 0px 0px 10px 0px;
+	padding: 20px;
+	text-align: center;
+	overflow: hidden;
+	background-color: #008080;
 }
 
 li.h{
-    float: left;
+    float: center;
     font-family: Tahoma, Geneva, sans-serif;
     vertical-align: middle;
     text-decoration: none;
-    display: block;
+    display: inline;
     color: white;
-	font-size: 20px
+	font-size: 20px;
 }
 
 li.h a{
-    display: block;
     color: #F0FFFF;
     text-align: center;
-    padding: 14px 16px;
+    padding: 20px;
     text-decoration: none;
 }
 
 li.h a:visited{
 	text-decoration: none;
-	display: block;
+	display: inline;
 	color: #F0FFFF;
 }
 
 li.h a:hover{
 	text-decoration: none;
-	display: block;
+	display: inline;
 	color: #F0FFFF;
 	background-color: navy;
 }
 
 li.h a:active{
 	text-decoration: none;
-	display: block;
+	display: inline;
 	color: #F0FFFF;
 }
 
