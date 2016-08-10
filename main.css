@@ -42,7 +42,7 @@ li.v.text{
 li.v a:link{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 20px;
-    padding: 8px 0px 8px 16px;
+	padding: 8px 0px 8px 16px;
 	vertical-align: middle;
 	text-decoration: none;
 	display: block;
@@ -69,5 +69,5 @@ li.v a:active{
 }
 
 img{
-    vertical-align: middle;
+	vertical-align: middle;
 }
