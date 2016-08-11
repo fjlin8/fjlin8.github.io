@@ -37,8 +37,13 @@ td{
 	vertical-align: left;
 	text-decoration: none;
 	color: navy;
-	display: inline-block;
+	display: block;
 	width: 100%
+}
+
+td:hover{
+	background: #008080;
+	color: white;
 }
 
 a{
@@ -47,11 +52,6 @@ a{
 	vertical-align: middle;
 	text-decoration: none;
 	color: #008080;
-}
-
-tr.link:hover{
-	background: #008080;
-	color: white;
 }
 
 img{
