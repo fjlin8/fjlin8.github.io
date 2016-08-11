@@ -9,7 +9,7 @@ p, h1{
 	width: 800px;
 }
 
-h1{
+h1, p.intro{
 	font-size: 42px;
 }
 
@@ -17,21 +17,15 @@ p{
 	font-size: 20px;
 }
 
-p.intro{
-	padding-bottom: 30px;
-}
-
 table{
 	list-style-type: none;
 	margin: 0px;
-	padding: 8px;
 	width: 500px;
 	border: 3px solid #008080;
 	border-collapse: collapse;
 	background-color: #F0FFFF;
 	margin-left: auto;
 	margin-right: auto;
-
 }
 
 p.v{
@@ -42,6 +36,7 @@ p.v{
 	display: block;
 	width: 100%;
 	color: navy;
+	padding: 8px;
 }
 
 
@@ -52,6 +47,7 @@ a.v{
 	text-decoration: none;
 	display: block;
 	width: 100%;
+	padding: 8px;
 }
 
 a.v:link{
