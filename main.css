@@ -53,23 +53,19 @@ a.v{
 
 a.v:link{
 	color: #008080;
-	text-decoration: none;
 }
 
 a.v:visited{
 	color: #008080;
-	text-decoration: none;
 }
 
 a.v:hover{
 	background-color: #008080;
 	color: white;
-	text-decoration: none;
 }
 
 a.v:active{
 	color: #008080;
-	text-decoration: none;
 }
 
 img{
