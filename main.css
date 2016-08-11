@@ -49,6 +49,11 @@ a {
 	color: #008080;
 }
 
+tr:hover td{
+	color: white;
+	background: #008080;
+}
+
 img{
 	vertical-align: middle;
 }
