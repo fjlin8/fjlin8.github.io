@@ -42,7 +42,7 @@ td{
 	color: navy;
 }
 
-td.link{
+td.link:link{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 18px;
 	padding: 8px;
@@ -53,7 +53,27 @@ td.link{
 	color: #008080;
 }
 
-td:hover{
+td.link:visited{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	padding: 8px;
+	vertical-align: left;
+	text-decoration: none;
+	background: #008080;
+	color: white;
+}
+
+td.link:hover{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	padding: 8px;
+	vertical-align: left;
+	text-decoration: none;
+	background: #008080;
+	color: white;
+}
+
+td.link:active{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 18px;
 	padding: 8px;
