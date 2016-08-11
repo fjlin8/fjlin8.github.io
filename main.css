@@ -68,6 +68,11 @@ a.v:active{
 	color: #008080;
 }
 
+tr:hover{
+	background-color: #008080;
+	color: white;	
+}
+
 img{
 	vertical-align: middle;
 }
