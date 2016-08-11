@@ -42,45 +42,9 @@ td{
 	color: navy;
 }
 
-td.link:link{
-	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 18px;
-	padding: 8px;
-	vertical-align: left;
-	text-decoration: none;
-	display: block;
-	width: 100%;
+td.link{
+
 	color: #008080;
-}
-
-td.link:visited{
-	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 18px;
-	padding: 8px;
-	vertical-align: left;
-	text-decoration: none;
-	background: #008080;
-	color: white;
-}
-
-td.link:hover{
-	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 18px;
-	padding: 8px;
-	vertical-align: left;
-	text-decoration: none;
-	background: #008080;
-	color: white;
-}
-
-td.link:active{
-	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 18px;
-	padding: 8px;
-	vertical-align: left;
-	text-decoration: none;
-	background: #008080;
-	color: white;
 }
 
 img{
