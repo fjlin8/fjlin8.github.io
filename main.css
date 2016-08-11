@@ -42,26 +42,26 @@ td{
 	color: navy;
 }
 
-a:link{
+a.v:link{
 	display: block;
 	color: #008080;
 	text-decoration: none;
 }
 
-a:visited{
+a.v:visited{
 	display: block;
 	color: #008080;
 	text-decoration: none;
 }
 
-a:hover{
+a.v:hover{
 	display: block;
 	background-color: #008080;
 	color: white;
 	text-decoration: none;
 }
 
-a:active{
+a.v:active{
 	display: block;
 	color: #008080;
 	text-decoration: none;
