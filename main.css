@@ -21,7 +21,7 @@ p{
 table{
 	list-style-type: none;
 	margin: 0px;
-	padding: 0px;
+	padding: 8px;
 	width: 500px;
 	border: 3px solid #008080;
 	border-collapse: collapse;
@@ -34,7 +34,6 @@ table{
 p.v{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 18px;
-	padding: 8px;
 	text-align: left;
 	text-decoration: none;
 	display: block;
@@ -46,12 +45,12 @@ p.v{
 a.v{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 18px;
-	padding: 8px;
 	text-align: left;
 	text-decoration: none;
 	display: block;
 	width: 100%;
 }
+
 a.v:link{
 	color: #008080;
 	text-decoration: none;
