@@ -37,7 +37,7 @@ td{
 	vertical-align: left;
 	text-decoration: none;
 	color: navy;
-	display: block;
+	display: inline-block;
 	width: 100%
 }
 
@@ -49,7 +49,7 @@ a{
 	color: #008080;
 }
 
-td.link:hover{
+tr.link:hover{
 	background: #008080;
 	color: white;
 }
