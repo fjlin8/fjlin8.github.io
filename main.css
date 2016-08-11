@@ -35,7 +35,7 @@ p.v{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 18px;
 	padding: 8px;
-	vertical-align: left;
+	text-align: left;
 	text-decoration: none;
 	display: block;
 	width: 100%;
@@ -47,7 +47,7 @@ a.v{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 18px;
 	padding: 8px;
-	vertical-align: left;
+	text-align: left;
 	text-decoration: none;
 	display: block;
 	width: 100%;
