@@ -42,7 +42,19 @@ td{
 	color: navy;
 }
 
-a{
+a:link {
+	color: #008080;
+}
+
+a:visited {
+	color: #008080;
+}
+
+a:hover {
+	color: white;
+}
+
+a:active {
 	color: #008080;
 }
 
