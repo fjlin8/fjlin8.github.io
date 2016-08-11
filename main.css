@@ -31,6 +31,14 @@ table{
 
 }
 
+a{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	vertical-align: middle;
+	text-decoration: none;
+	color: #008080;
+}
+
 td{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 18px;
@@ -48,17 +56,8 @@ td:hover{
 	padding: 8px;
 	vertical-align: left;
 	text-decoration: none;
-	color: navy;
 	background: #008080;
 	color: white;
-}
-
-a{
-	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 18px;
-	vertical-align: middle;
-	text-decoration: none;
-	color: #008080;
 }
 
 img{
