@@ -36,7 +36,6 @@ a{
 	font-size: 18px;
 	vertical-align: middle;
 	text-decoration: none;
-	color: #008080;
 }
 
 td{
@@ -45,9 +44,20 @@ td{
 	padding: 8px;
 	vertical-align: left;
 	text-decoration: none;
-	color: navy;
 	display: block;
-	width: 100%
+	width: 100%;
+	color: navy;
+}
+
+td.link{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	padding: 8px;
+	vertical-align: left;
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	color: #008080;
 }
 
 td:hover{
