@@ -34,7 +34,7 @@ li.v.text{
 	padding: 8px 0px 8px 16px;
 	vertical-align: middle;
 	text-decoration: none;
-	display: block;
+	display: inline-block;
 	color: navy;
 }
 
@@ -44,26 +44,26 @@ li.v a:link{
 	padding: 8px 0px 8px 16px;
 	vertical-align: middle;
 	text-decoration: none;
-	display: block;
+	display: inline-block;
 	color: #008080;
 }
 
 li.v a:visited{
 	text-decoration: none;
-	display: block;
+	display: inline-block;
 	color: #008080;
 }
 
 li.v a:hover{
 	text-decoration: none;
-	display: block;
+	display: inline-block;
 	color: white;
 	background-color: #008080;
 }
 
 li.v a:active{
 	text-decoration: none;
-	display: block;
+	display: inline-block;
 	color: #008080;
 }
 
