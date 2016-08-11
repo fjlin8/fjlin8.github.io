@@ -42,27 +42,34 @@ p.v{
 	color: navy;
 }
 
-a.v:link{
+
+a.v{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	padding: 8px;
+	vertical-align: left;
+	text-decoration: none;
 	display: block;
+	width: 100%;
+	color: navy;
+}
+a.v:link{
 	color: #008080;
 	text-decoration: none;
 }
 
 a.v:visited{
-	display: block;
 	color: #008080;
 	text-decoration: none;
 }
 
 a.v:hover{
-	display: block;
 	background-color: #008080;
 	color: white;
 	text-decoration: none;
 }
 
 a.v:active{
-	display: block;
 	color: #008080;
 	text-decoration: none;
 }
