@@ -44,18 +44,23 @@ td{
 
 a:link {
 	color: #008080;
+	text-decoration: none;
 }
 
 a:visited {
 	color: #008080;
+	text-decoration: none;
 }
 
 a:hover {
+	background-color: #008080;
 	color: white;
+	text-decoration: none;
 }
 
 a:active {
 	color: #008080;
+	text-decoration: none;
 }
 
 img{
