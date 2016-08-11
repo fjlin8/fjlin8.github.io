@@ -37,7 +37,7 @@ p.v{
 	display: inline-block;
 	width: 100%;
 	color: navy;
-	padding: 8px 0px;
+	padding: 8px;
 }
 
 
@@ -48,7 +48,7 @@ a.v{
 	text-decoration: none;
 	display: inline-block;
 	width: 100%;
-	padding: 8px 0px;
+	padding: 8px;
 }
 
 a.v:link{
