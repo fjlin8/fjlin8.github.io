@@ -51,23 +51,6 @@ a.v{
 	padding: 8px;
 }
 
-a.v:link{
-	color: #008080;
-}
-
-a.v:visited{
-	color: #008080;
-}
-
-a.v:hover{
-	background-color: #008080;
-	color: white;
-}
-
-a.v:active{
-	color: #008080;
-}
-
 tr:hover{
 	background-color: #008080;
 	color: white;	
