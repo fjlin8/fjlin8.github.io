@@ -22,6 +22,8 @@ ul.v{
 	list-style-type: none;
 	margin: 0px;
 	padding: 0px;
+	max-width:100%;
+	white-space: nowrap;
 	border: 3px solid #008080;
 	background-color: #F0FFFF;
 	margin-left: auto;
