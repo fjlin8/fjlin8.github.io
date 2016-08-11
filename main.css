@@ -38,20 +38,20 @@ td{
 	text-decoration: none;
 	color: navy;
 	display: block;
+	width: 100%
 }
 
 a{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 18px;
-	padding: 8px 0px 8px 16px;
 	vertical-align: middle;
 	text-decoration: none;
 	color: #008080;
 }
 
 td.link:hover{
-	color: white;
 	background: #008080;
+	color: white;
 }
 
 img{
