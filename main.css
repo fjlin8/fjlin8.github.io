@@ -33,11 +33,11 @@ table{
 td{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 18px;
-	padding: 0px;
+	padding: 8px;
 	vertical-align: left;
 	text-decoration: none;
 	color: navy;
-	display: inline-block;
+	display: block;
 }
 
 a{
