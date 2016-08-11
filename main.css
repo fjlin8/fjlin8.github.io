@@ -5,7 +5,7 @@ body{
 p, h1{
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
-    margin: 0 auto;
+	margin: 0 auto;
 	width: 800px;
 	padding-bottom: 30px;
 }
@@ -28,6 +28,7 @@ table, td{
 	margin-left: auto;
 	margin-right: auto;
 	color: navy;
+	display: inline-block;
 }
 
 td{
@@ -36,7 +37,6 @@ td{
 	padding: 8px 0px 8px 16px;
 	vertical-align: middle;
 	text-decoration: none;
-	display: inline-block;
 	
 }
 
@@ -46,7 +46,6 @@ a {
 	padding: 8px 0px 8px 16px;
 	vertical-align: middle;
 	text-decoration: none;
-	display: inline-block;
 	color: #008080;
 }
 
