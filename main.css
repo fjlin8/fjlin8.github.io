@@ -9,8 +9,12 @@ p, h1{
 	width: 800px;
 }
 
-h1, p.intro{
+h1{
 	font-size: 42px;
+}
+
+h1, p.intro{
+	padding-bottom: 30px;
 }
 
 p{
