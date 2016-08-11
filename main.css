@@ -40,7 +40,7 @@ p.v{
 	display: block;
 	width: 100%;
 	color: navy;
-	padding: 8px;
+	padding: 8px 0px;
 }
 
 
@@ -51,7 +51,7 @@ a.v{
 	text-decoration: none;
 	display: block;
 	width: 100%;
-	padding: 8px;
+	padding: 8px 0px;
 }
 
 a.v:link{
