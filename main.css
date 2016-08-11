@@ -34,7 +34,7 @@ li.v.text{
 	padding: 8px 0px 8px 16px;
 	vertical-align: middle;
 	text-decoration: none;
-	display: table-cell;
+	display: block;
 	color: navy;
 }
 
@@ -44,7 +44,7 @@ li.v a:link{
 	padding: 8px 0px 8px 16px;
 	vertical-align: middle;
 	text-decoration: none;
-	display: table-cell;
+	display: block;
 	color: #008080;
 }
 
