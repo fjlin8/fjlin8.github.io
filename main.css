@@ -1,5 +1,7 @@
 body{
     background-color: #E0FFFF;
+	background-image: url("toppic.png");
+	background-size: cover;
 }
 
 p, h1{
