@@ -98,10 +98,4 @@ tr.link:hover{
 img{
 	vertical-align: middle;
 }
-
-img.resize{
-	max-width: 50%;
-    display: block;
-    margin: 0 auto;
-}
 	
