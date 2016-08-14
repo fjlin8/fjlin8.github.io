@@ -54,12 +54,14 @@ p.v{
 	padding: 8px;
 }
 
+a{
+	text-decoration: none;
+}
 
 a.v{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 20px;
 	text-align: left;
-	text-decoration: none;
 	display: inline-block;
 	width: 100%;
 	padding: 8px;
