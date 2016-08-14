@@ -10,7 +10,7 @@ p, h1, h2{
 
 }
 
-p,h1{
+p, h1{
 	padding-bottom: 30px;	
 }
 
@@ -24,6 +24,12 @@ h2{
 
 p{
 	font-size: 20px;
+}
+
+p.article{
+	padding-left: 20%;
+	text-align: left;
+	padding-bottom: 0px
 }
 
 table{
@@ -82,3 +88,10 @@ tr.link:hover{
 img{
 	vertical-align: middle;
 }
+
+img.resize{
+	max-width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+	
