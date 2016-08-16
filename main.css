@@ -30,7 +30,6 @@ p.article{
 	padding-left: 20%;
 	text-align: left;
 	padding-bottom: 0px;
-	margin: 0px 0px 3px 0px;
 }
 
 p.image{
@@ -102,6 +101,11 @@ a.v:active{
 tr.link:hover{
 	background-color: #008080;
 }
+
+img{
+	vertical-align: middle;
+}
+
 
 img.large{
     display: block;
