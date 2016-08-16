@@ -36,6 +36,10 @@ th, td{
 	vertical-align: middle;
 }
 
+td.blue{
+	color: blue;
+}
+
 p{
 	margin: 0px;
 }
