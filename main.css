@@ -33,9 +33,13 @@ h2.navy{
 
 p{
 	font-size: 20px;
-	margin: 0px;
-	text-align: left;
+}
+
+p.article{
 	padding-left: 20%;
+	text-align: left;
+	padding-bottom: 0px;
+	margin: 0px;
 }
 
 p.image{
