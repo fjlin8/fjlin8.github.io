@@ -2,6 +2,21 @@ body{
 	background-color: #E0FFFF;
 }
 
+#main{
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: center;
+	margin: 0 auto;
+	width: 800px;
+}
+
+.section{
+	margin: 0px;
+}
+
+#intro{
+	padding-bottom: 0px;	
+}
+
 h1{
 	font-size: 42px;
 	margin: 0px;
@@ -104,19 +119,4 @@ img{
 img.large{
     display: block;
     margin: auto;
-}
-
-#main{
-	font-family: Tahoma, Geneva, sans-serif;
-	text-align: center;
-	margin: 0 auto;
-	width: 800px;
-}
-
-.section{
-	margin: 0px;
-}
-
-#intro{
-	padding-bottom: 30px;	
 }
