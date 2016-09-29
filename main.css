@@ -5,7 +5,7 @@ body{
 #main{
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
-	margin: 0px;
+	margin: 0 auto;
 	width: 800px;
 }
 
@@ -13,7 +13,7 @@ body{
 	margin: 0px;
 }
 
-p, h1{
+#intro{
 	padding-bottom: 30px;	
 }
 
