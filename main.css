@@ -2,12 +2,15 @@ body{
 	background-color: #E0FFFF;
 }
 
-p, h1, h2{
+#main{
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
 	margin: 0 auto;
 	width: 800px;
+}
 
+.section{
+	margin: 20px 40px 40px;
 }
 
 p, h1{
