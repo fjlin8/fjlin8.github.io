@@ -52,7 +52,9 @@ p.image{
 	margin-left: auto;
 	margin-right: auto;
 	width: 800px;
+	margin: 0px 0px 10px 0px;
 	padding: 10px;
+	text-align: center;
 	overflow: hidden;
 	border-radius: 20px;
 	-moz-border-radius: 20px;
