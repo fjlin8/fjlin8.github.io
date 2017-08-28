@@ -47,7 +47,7 @@ p.image{
 	margin-right: auto;
 }
 
-p.boxed{
+.boxed{
 	background-color: #E0FFFF;
 	margin-left: auto;
 	margin-right: auto;
