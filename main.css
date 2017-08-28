@@ -121,3 +121,8 @@ img.large{
     display: block;
     margin: auto;
 }
+
+span.rev{
+  unicode-bidi:bidi-override;
+  direction: rtl;
+}
