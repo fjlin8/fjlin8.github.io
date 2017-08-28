@@ -51,8 +51,8 @@ p.image{
 	background-color: #E0FFFF;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 10px;
 	width: 800px;
-	margin-bottom: 20px 10px 20px 10px;
 }
 
 table{
