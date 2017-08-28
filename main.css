@@ -31,15 +31,6 @@ h2.navy{
 	color: navy;
 }
 
-h2.boxed{
-	background-color: #E0FFFF;
-	margin-left: auto;
-	margin-right: auto;
-	width: 800px;
-	-moz-border-radius: 10px;
-	margin-bottom: 10px;
-}
-
 p{
 	font-size: 20px;
 }
@@ -54,6 +45,14 @@ p.article{
 p.image{
 	margin-left: auto;
 	margin-right: auto;
+}
+
+p.boxed{
+	background-color: #E0FFFF;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	margin-bottom: 20px 10px 20px 10px;
 }
 
 table{
