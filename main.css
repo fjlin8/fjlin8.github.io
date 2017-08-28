@@ -54,6 +54,7 @@ p.image{
 	width: 800px;
 	padding: 5px;
 	border-radius: 10px;
+	-moz-border-radius: 10px;
 }
 
 table{
