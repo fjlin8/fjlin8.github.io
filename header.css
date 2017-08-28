@@ -24,7 +24,7 @@ li.h{
 }
 
 li.h a{
-	color: #F0FFFF;
+	color: #E0FFFF;
 	text-align: center;
 	padding: 20px;
 	text-decoration: none;
@@ -33,20 +33,20 @@ li.h a{
 li.h a:visited{
 	text-decoration: none;
 	display: inline;
-	color: #F0FFFF;
+	color: #E0FFFF;
 }
 
 li.h a:hover{
 	text-decoration: none;
 	display: inline;
-	color: #F0FFFF;
+	color: #E0FFFF;
 	background-color: navy;
 }
 
 li.h a:active{
 	text-decoration: none;
 	display: inline;
-	color: #F0FFFF;
+	color: #E0FFFF;
 }
 
 hr{
