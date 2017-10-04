@@ -22,11 +22,6 @@ h1{
 	margin: 0px;
 }
 
-h2{
-	font-size: 30px;
-	margin: 20px 0px 0px 0px;
-}
-
 h2.navy{
 	color: navy;
 }
@@ -48,7 +43,7 @@ p.image{
 }
 
 .boxed{
-	background-color: #E0FFFF;
+	background-color: #008080;
 	margin-left: auto;
 	margin-right: auto;
 	width: 800px;
@@ -58,6 +53,18 @@ p.image{
 	overflow: hidden;
 	border-radius: 20px;
 	-moz-border-radius: 20px;
+}
+
+.green{
+	background-color: #008348;
+}
+
+.blue{
+	background-color: #003262;
+}
+
+.gold{
+	background-color: #FDB515;
 }
 
 table{
@@ -94,6 +101,14 @@ a.v{
 	display: inline-block;
 	width: 100%;
 	padding: 8px;
+}
+
+a.boxed{
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
 }
 
 a.h:link{
