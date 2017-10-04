@@ -70,7 +70,7 @@ p.image{
 table{
 	list-style-type: none;
 	margin: 0px;
-	width: 550px;
+	width: 500px;
 	border: 3px solid #008080;
 	border-collapse: collapse;
 	background-color: #F0FFFF;
@@ -84,7 +84,7 @@ p.v{
 	text-align: left;
 	text-decoration: none;
 	display: inline-block;
-	width: 100%;
+	width: 500px;
 	color: navy;
 	padding: 8px;
 	margin: 0px;
@@ -99,7 +99,7 @@ a.v{
 	font-size: 20px;
 	text-align: left;
 	display: inline-block;
-	width: 100%;
+	width: 500px;
 	padding: 8px;
 }
 
