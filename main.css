@@ -71,7 +71,7 @@ p.image{
 	background-color: #FDB515;
 }
 
-table{
+.table{
 	list-style-type: none;
 	margin: 0px;
 	width: 500px;
@@ -81,6 +81,33 @@ table{
 	margin-left: auto;
 	margin-right: auto;
 	table-layout: fixed;
+}
+
+.table th, td{
+	border: 1px solid #008080;
+	border-collapse: collapse;
+	padding: 5px;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.no-border td{
+	padding: 0px;
+	border: 0px;
+}
+
+.table td.curr{
+	color: blue;
+}
+
+.table p{
+	margin: 0px;
+}
+
+.table p.small{
+	font-size: 10px;
+	margin: 0px;
 }
 
 p.v{
@@ -151,11 +178,18 @@ img{
 }
 
 img.large{
-    display: block;
-    margin: auto;
+	display: block;
+	margin: auto;
 }
 
 span.rev{
-  unicode-bidi:bidi-override;
-  direction: rtl;
+	unicode-bidi:bidi-override;
+	direction: rtl;
 }
+
+br{
+	display: block;
+	margin: 20px;
+}
+
+	
