@@ -192,4 +192,26 @@ br{
 	margin: 20px;
 }
 
+.album p, h1, h2{
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: center;
+    margin: 0 auto;
+	padding-bottom: 30px;
+}
+
+.album p.image{
+	padding-bottom: 15px;
+}
+
+.album p.captions{
+	max-width: 40%;
+}
+
+.album img.resize{
+	max-width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+	
+
 	
