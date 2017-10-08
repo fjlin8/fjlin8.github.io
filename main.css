@@ -136,11 +136,11 @@ a.v{
 }
 
 a.boxed{
-    display: block;
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
+	display: block;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
 }
 
 a.h:link{
@@ -195,7 +195,7 @@ br{
 .album p, .album h1, .album h2{
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
-    margin: 0 auto;
+	margin: 0 auto;
 	padding-bottom: 30px;
 }
 
@@ -209,8 +209,8 @@ br{
 
 .album img.resize{
 	max-width: 50%;
-    display: block;
-    margin: 0 auto;
+	display: block;
+	margin: 0 auto;
 }
 	
 
