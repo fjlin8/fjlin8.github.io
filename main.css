@@ -13,6 +13,16 @@ body{
 	margin: 0px;
 }
 
+.chunk{
+	background-color: #E0FFFF;
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	padding: 10px;
+	-moz-border-radius: 10px;
+	margin-bottom: 10px;
+}
+
 #intro{
 	padding-bottom: 0px;	
 }
