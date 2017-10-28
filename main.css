@@ -224,3 +224,6 @@ br{
 	margin: 0 auto;
 }
 	
+.line {
+	width:700px; height:2px; border-top:1px solid black;
+}
