@@ -52,7 +52,6 @@ li.h a:active{
 hr{
 	display: block;
 	height: 0px;
-	border: 0;
 	border: 10px solid #ccc;
 	border-color: navy;
 	margin: 20px;
@@ -73,5 +72,8 @@ hr{
 
 .soft{
 	height: 3px;
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
 	width: 700px;
 }
