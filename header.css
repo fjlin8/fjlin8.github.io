@@ -76,5 +76,6 @@ hr{
 	border-color: #008080;
 	margin: 0px;
 	padding: 0px;
+	border-radius: 3px;
 	width: 700px;
 }
