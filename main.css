@@ -121,6 +121,12 @@ p.image{
 	margin: 0px;
 }
 
+.table p.italics{
+	font-size: 16px;
+	font-style: italic;
+	margin: 0px;
+}
+
 p.v{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 20px;
