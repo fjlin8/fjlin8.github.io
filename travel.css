@@ -16,7 +16,7 @@
 
 .collapsible:after {
 	content: '\002B';
-	color: navy;
+	color: #E0FFFF;
 	font-weight: bold;
 	float: right;
 	margin-left: 5px;
@@ -32,5 +32,5 @@
 	max-height: 0;
 	overflow: hidden;
 	transition: max-height 0.2s ease-out;
-	background-color: #f1f1f1;
+	background-color: #E0FFFF;
 }
