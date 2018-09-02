@@ -15,11 +15,11 @@
 			for (i = 0; i < coll.length; i++) {
 				coll[i].addEventListener("click", function() {
 					this.classList.toggle("active");
-					var section = this.nextElementSibling;
-					if (section.style.maxHeight){
-						section.style.maxHeight = null;
+					var content = this.nextElementSibling;
+					if (content.style.maxHeight){
+						content.style.maxHeight = null;
 					} else {
-						section.style.maxHeight = section.scrollHeight + "px";
+						content.style.maxHeight = content.scrollHeight + "px";
 					}
 				});
 			}
@@ -47,7 +47,7 @@
 		</header>
 		
 		<div id="main">
-			<div id="intro" class="section">
+			<div id="intro" class="content">
 				<h1>Travels</h1>
 				<p class="chunk">I love traveling and exploring the world. There’s something special about immersing oneself in different cultures that simply can’t be realized from home. In particular, I enjoy learning about unique customs that different societies practice. Whilst abroad, I like to experience the local language, historical sites, and public transport. Check out my <a href="travel/travel-map.html">travel map</a>!</p>
 				<div class="boxed" style="background-color: #008080;"><p style="color:#E0FFFF; margin:10px;">My preferred mode of transport is the train 🚆</p></div>
@@ -55,7 +55,7 @@
 			</div>
 
 			<button class="collapsible">Test Collapsible</button>
-			<div class="section">
+			<div class="content">
 				<h2 style="color:navy">Pacific Northwest 2018</a></h2>
 				<table class="table no-border" style="width: 500px;">
 					<tr><td><p class="v">2018-08 <img src="/flags/canada.png"> Vancouver, British Columbia</p></td></tr>
@@ -67,7 +67,7 @@
 					<tr class="link"><td><a class="v" href="/travel/boise.html">2018-03 <img src="/flags/united-states.png"> Boise, Idaho</a></td></tr>
 				</table>
 			</div>
-			<div class="section">
+			<div class="content">
 				<h2 style="color:navy">China 2018</a></h2>
 				<table class="table no-border" style="width: 500px;">
 					<tr><td><p class="v">2018-05 <img src="/flags/china.png"> Shanghai, China</p></td></tr>
@@ -76,7 +76,7 @@
 					<tr><td><p class="v">2018-05 <img src="/flags/hong-kong.png"> Hong Kong, China</p></td></tr>
 				</table>
 			</div>
-			<div class="section">
+			<div class="content">
 				<h2 style="color:navy">Southern Europe 2017</h2>
 				<table class="table no-border" style="width: 500px;">
 					<tr><td><p class="v">2017-07 <img src="/flags/switzerland.png"> Geneva, Switzerland</p></td></tr>
@@ -89,7 +89,7 @@
 					<tr class="link"><td><a class="v" href="/travel/marseille.html">2017-07 <img src="/flags/france.png"> Marseille, France</a></td></tr>
 				</table>
 			</div>
-			<div class="section">
+			<div class="content">
 				<h2 style="color:navy">Central Europe 2017</h2>
 				<table class="table no-border" style="width: 500px;">
 					<tr class="link"><td><a class="v" href="/travel/prague.html">2017-01 <img src="/flags/czechia.png"> Prague, Czechia</a></td></tr>
@@ -100,7 +100,7 @@
 					<tr class="link"><td><a class="v" href="/travel/vienna.html">2017-01 <img src="/flags/austria.png"> Vienna, Austria</a></td></tr>
 				</table>
 			</div>
-			<div class="section">
+			<div class="content">
 				<h2><a class="h" href="wne">Western Europe 2016</a></h2>
 				<table class="table no-border" style="width: 500px;">
 					<tr><td><p class="v">2016-08 <img src="/flags/england.png"> Dover, England, UK</p></td></tr>
@@ -120,7 +120,7 @@
 					<tr class="link"><td><a class="v" href="/travel/munich.html">2016-06 <img src="/flags/germany.png"> Munich, Germany</a></td></tr>
 				</table>
 			</div>
-			<div class="section">
+			<div class="content">
 				<h2><a class="h" href="pne">Pacific Northwest 2016</a></h2>
 				<table class="table no-border" style="width: 500px;">
 					<tr><td><p class="v">2016-03 <img src="/flags/united-states.png"> Seattle, Washington</p></td></tr>
