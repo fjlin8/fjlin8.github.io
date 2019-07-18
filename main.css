@@ -233,3 +233,18 @@ br{
 .line {
 	width:700px; height:2px; border-top:1px solid black;
 }
+
+#footer{
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: center;
+	margin: 0 auto;
+	padding-bottom: 10px;
+}
+
+.copy{
+	font-size:20px;
+}
+
+.final{
+	font-size:14px;
+}
