@@ -200,7 +200,7 @@ img.large{
 }
 
 span.rev{
-	unicode-bidi:bidi-override;
+	unicode-bidi: bidi-override;
 	direction: rtl;
 }
 
@@ -231,7 +231,7 @@ br{
 }
 	
 .line {
-	width:700px; height:2px; border-top:1px solid black;
+	width: 700px; height: 2px; border-top: 1px solid black;
 }
 
 #footer{
@@ -241,7 +241,8 @@ br{
 }
 
 p.copy{
-	font-size:20px;
+	font-size: 20px;
+	margin-bottom: 10px;
 }
 
 p.final{
