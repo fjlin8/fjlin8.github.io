@@ -240,10 +240,10 @@ br{
 	margin: 0 auto;
 }
 
-.copy{
+p.copy{
 	font-size:20px;
 }
 
-.final{
+p.final{
 	font-size:14px;
 }
