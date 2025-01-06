@@ -6,6 +6,7 @@
 		<meta charset="UTF-8">
 		<link rel="stylesheet" type="text/css" href="./main.css">
 		<link rel="stylesheet" type="text/css" href="./header.css">
+		<link rel="stylesheet" type="text/css" href="./travel.css">
 				
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-8KLNG72PY1"></script>
 		<script>
@@ -48,8 +49,14 @@
 					<p>See here for a summary of <a href="./running-learnings.html">learnings from my running journey</a> so far!<br>
 					<div style="width:700px; height:2px; border-top:1px solid black;"></div>
 					<p>Some cool runs I've done while traveling:</p>
+					</div>
+				</div>
+				<button class="collapsible">Asia</button>
+				<div class="content">
+					<table class="table no-border" style="width: 500px;">
+					<tr><td>
 					<ul>
-					<li>Tokyo Runs</li>
+					<li>Tokyo</li>
 						<ul>
 							<li><a href="https://www.strava.com/activities/13093802316">Sumida River</a></li>
 							<li><a href="https://www.strava.com/activities/13097533118">Yoyogi Park</a></li>
@@ -57,14 +64,14 @@
 							<li><a href="https://www.strava.com/activities/13111023198">Tama River</a></li>
 							<li><a href="https://www.strava.com/activities/13117632330">Zenpuku-ji River</a></li>
 						</ul>	
-					<li>Seoul Runs</li>
+					<li>Seoul</li>
 						<ul>
 							<li><a href="https://www.strava.com/activities/13125757181">Han River</a></li>
 							<li><a href="https://www.strava.com/activities/13131302120">Yeouido Saetgang Ecological Park</a></li>
 							<li><a href="https://www.strava.com/activities/13138844726">Seonyudo Park</a></li>
 							<li><a href="https://www.strava.com/activities/13145496586">Mangwon Reservoir Sports Park</a></li>
 						</ul>	
-					<li>Hong Kong Runs</li>
+					<li>Hong Kong</li>
 						<ul>
 							<li><a href="https://www.strava.com/activities/13159005563">Hong Kong Island</a></li>
 							<li><a href="https://www.strava.com/activities/13152661027">Victoria Park</a></li>
@@ -74,22 +81,40 @@
 						<ul>
 							<li><a href="https://www.strava.com/activities/13171633304">Macau-Taipa Bridge</a></li>
 						</ul>
-					<li>Shanghai Runs</li>
+					<li>Shanghai</li>
 						<ul>
 							<li><a href="https://www.strava.com/activities/13204986698">Huangpu River</a></li>
 							<li><a href="https://www.strava.com/activities/13199366853">Yangpu District</a></li>
 						</ul>
-					<li>Hangzhou Runs</li>
+					<li>Hangzhou</li>
 						<ul>
 							<li><a href="https://www.strava.com/activities/13178252200">West Lake Loop</a></li>
-							<li><a href="https://www.strava.com/activities/13178252200">West Lake (Baidi, Sudi, Tiandi)</a></li>
+							<li><a href="https://www.strava.com/activities/13178252200">Baidi, Sudi, Tiandi</a></li>
 						</ul>
-
-					</ul>	
-				</div>
-			</div>
+					</ul>
+					</p></td></tr>
+				</table>
 		</div>
-		
+		</div>
+	</div>
+
+		<script>
+			var coll = document.getElementsByClassName("collapsible");
+			var i;
+
+			for (i = 0; i < coll.length; i++) {
+				coll[i].addEventListener("click", function() {
+					this.classList.toggle("active");
+					var content = this.nextElementSibling;
+					if (content.style.maxHeight){
+						content.style.maxHeight = null;
+					} else {
+						content.style.maxHeight = content.scrollHeight + "px";
+					}
+				});
+			}
+		</script>
+
 		<footer>
 		<hr class="center">
 		<div id="footer">
