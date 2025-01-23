@@ -15,6 +15,14 @@
 
           gtag('config', 'G-8KLNG72PY1');
         </script>
+
+		<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+		<script>
+		$(document).ready(function() {
+		  $("#footer").load("https://fjlin.me/footer.html", function() {
+		  });
+		});
+		</script>
 		<script src="jquery-3.1.0.min.js"></script>
 		<script>
 		$(document).ready(function(){
@@ -1191,11 +1199,6 @@
 			</tr>
 		</table>
 		
-		<footer>
-		<hr class="center">
-		<div id="footer">
-			<p class="copy">&copy; 2025 Frank Lin</p>
-		</div>
-		</footer>
+		<div id="footer"></div>
 	</body>
 </html>
