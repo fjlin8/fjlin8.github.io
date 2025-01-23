@@ -5,7 +5,6 @@
 		<title>Travel</title>
 		<meta charset="UTF-8">
 		<link rel="stylesheet" type="text/css" href="./main.css">
-		<link rel="stylesheet" type="text/css" href="./header.css">
 		<link rel="stylesheet" type="text/css" href="./travel.css">
 		
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-8KLNG72PY1"></script>
@@ -20,25 +19,13 @@
 		<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 		<script>
 		$(document).ready(function() {
-		  $("#footer").load("https://fjlin.me/footer.html", function() {
-		  });
+		  $("#header").load("https://fjlin.me/header.html", function() {});
+		  $("#footer").load("https://fjlin.me/footer.html", function() {});
 		});
 		</script>
 	</head>
-	<body>
-		<header>
-		<a href="./index"><img style="float:left;" class="circle" src="./fjl128.png"></a>
-		<br><br><br>
-		<ul class="h">
-			<li class="h"><a href="./index">About</a></td></tr>
-			<li class="h"><a href="./running">Running</a></td></tr>
-			<li class="h"><a href="./cycling">Cycling</a></td></tr>
-			<li class="h"><a href="./travel">Travel</a></td></tr>
-			<li class="h"><a href="./sundries">Sundries</a></td></tr>
-		</ul>
-		<br><br><br>
-		</header>
-		
+	<body>		
+		<div id="header"></div>		
 		<div id="main">
 			<div id="intro" class="section">
 				<h1>Travel</h1>
