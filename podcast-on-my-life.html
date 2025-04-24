@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Podcast on My Life</title>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="./main.css">
+				
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-8KLNG72PY1"></script>
+		<script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-8KLNG72PY1');
+        </script>
+
+		<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+		<script>
+		$(document).ready(function() {
+		  $("#header").load("https://fjlin.me/header.html", function() {});
+		  $("#footer").load("https://fjlin.me/footer.html", function() {});
+		});
+		</script>
+	</head>
+	<body>		
+		<div id="header"></div>		
+		<div id="main">
+			<div class="section">
+				<h1>Podcast on My Life</h1>
+				<div class="chunk">
+				<p>Recently, my friend showed me <a href="https://notebooklm.google.com/">NotebookLM</a>, a tool developed by Google that uses Gemini to interact with document sources to generate summaries, analyses, explanations, and more.</p>
+				<p>I uploaded the pages on my personal website (the one you're reading right now) to NotebookLM to generate a podcast episode about my life, and played around with some prompt engineering to see what different outputs it could produce. I was impressed with the results, in particular its ability to make the discussion sound so natural and conversational with ad-libs!</p>
+				<p>I ended up liking the following audio clip the most and uploaded it to YouTube. Feel free to check it out if you're interested!</p>
+				<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/JN3YbZRY_hg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+				<p>Have you ever used AI to generate something cool or that you're proud of? Let me know if you have!</p>
+			</div>
+		</div>
+		<div id="footer"></div>
+	</body>
+</html>
