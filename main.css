@@ -6,6 +6,13 @@ body{
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
 	margin: 0 auto;
+	width: 800px;
+}
+
+#main2{
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: center;
+	margin: 0 auto;
 	width: 1200px;
 }
 
