@@ -82,6 +82,26 @@ p.image{
 	-moz-border-radius: 20px;
 }
 
+.boxed2{
+    background-color: #008080;
+    width: 500px;
+    margin: 0px auto 10px auto;
+    padding: 0px;
+    text-align: center;
+    overflow: hidden;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+}
+
+.boxed-blue{
+    background-color: #003262;
+    margin: 0px auto 10px auto;
+    width: 800px;
+    text-align: center;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
 .green{
 	background-color: #008348;
 }
