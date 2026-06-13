@@ -102,6 +102,24 @@ p.image{
     border-radius: 20px;
 }
 
+.boxed-green{
+    background-color: #008348;
+    margin: 0px auto 10px auto;
+    width: 800px;
+    text-align: center;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.boxed-gold{
+    background-color: #FDB515;
+    margin: 0px auto 10px auto;
+    width: 800px;
+    text-align: center;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
 .green{
 	background-color: #008348;
 }
